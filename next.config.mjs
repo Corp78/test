@@ -3,16 +3,13 @@
  */
 
 
-/*
+
 const nextConfig = {
     output: 'export',
     reactStrictMode: true,
     basePath: '/test',
 }
-*/
 
-const nextConfig = {
-}
 
 
 
