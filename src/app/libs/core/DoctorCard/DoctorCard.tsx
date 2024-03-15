@@ -19,7 +19,7 @@ export const DoctorCard = ({name, description, left, right}: Props) => {
             [classes.right]: !!right,
         })}>
             <div className={classes.imageContainer}>
-                <Image className={classes.image} src="/Quentin.png" alt="quentin" fill sizes="(max-width: 768px) , (max-width: 1200px)"/>
+                <Image className={classes.image} src="/test/Quentin.png" alt="quentin" fill sizes="(max-width: 768px) , (max-width: 1200px)"/>
             </div>
             <h5 className={classes.name}>{name}</h5>
             <p className={classes.description}>{description}</p>
