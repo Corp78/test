@@ -9,7 +9,7 @@ const nextConfig = {
     reactStrictMode: true,
     basePath: '/test',
     images: {
-        unoptimized: true
+        unoptimized: true,
     }
 }
 
