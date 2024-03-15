@@ -4,7 +4,7 @@
 const nextConfig = {
     output: 'export',
     reactStrictMode: true,
-    unoptimized: true,
+    basePath: '/test',
 }
 
 export default nextConfig;
